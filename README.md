@@ -11,3 +11,4 @@ Este libro cuenta la historia de **Harlow**, un niño que escala el **Monte Barr
 ## Índice
 1. [Introducción](Introducción/README.md)
 2. [Las Ruinas](Las-Ruinas/README.md)
+3. [Exploración de las Ruinas](Exploración-Ruinas/README.md)
